@@ -4,6 +4,7 @@ import { FaBars, FaX } from 'react-icons/fa6';
 import { motion } from "framer-motion";
 
 
+
 function Navbar() {
   const [scrolled, setScrolled] = useState(false);
 
@@ -45,7 +46,7 @@ function Navbar() {
         ' transition-colors fixed flex flex-row py-5 px-5 items-center top-0 bg-transparent w-full justify-between md:px-32 '}>
           <h1 className='text-white font-semibold text-xl'>Frank Caleb</h1>
           <ul className='hidden text-white text-sm md:flex pt-2'>
-            <li className='px-4 hover:ease-in-out hover:border hover:bg-transparent hover:cursor-pointer'>About Me</li>
+           <li className='px-4 hover:ease-in-out hover:border hover:bg-transparent hover:cursor-pointer'>About Me</li> 
             <li className='px-4 hover:ease-in-out hover:border hover:bg-transparent hover hover:cursor-pointer'>My Skills</li>
             <li className='px-4 hover:ease-in-out hover:border hover:bg-transparent hover hover:cursor-pointer'>Portfolio</li>
             <li className='px-4 hover:ease-in-out hover:border hover:bg-transparent hover hover:cursor-pointer'>Contacts</li>
