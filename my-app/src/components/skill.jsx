@@ -31,7 +31,7 @@ function Skill() {
                <button className='bg-amber-700 rounded-full font-semibold text-white py-7 px-5 md:p-7'>HTML</button>
                <button className='bg-amber-700 rounded-full font-semibold text-white px-7 py-7 my-5 md:p-9 md:mx-5 md:my-0'>CSS</button>
                <button className='bg-amber-700 rounded-full font-semibold text-white py-7 px-8 md:py-9 md:px-10'>JS</button>
-               <button className='bg-amber-700 rounded-full font-semibold text-white py-7 px-3 my-5 md:py-9 md:px-5 mx-5 md:my-0'>Tailwind</button>
+               <button className='bg-amber-700 rounded-full font-semibold text-white py-7 px-3 my-5 md:py-9 md:px-5 md:my-0'>Tailwind</button>
                <button className='bg-amber-700 rounded-full font-semibold text-white py-7 px-5 md:p-7'>React</button>
 
             </div>
