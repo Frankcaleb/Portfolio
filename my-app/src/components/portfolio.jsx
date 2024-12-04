@@ -1,7 +1,7 @@
 import React from 'react'
 import { GoTriangleDown } from 'react-icons/go';
 import Ahava from "../assets/ahava.jpg";
-import Clock from "../assets/clock.jpg";
+import Hospital from "../assets/hospital.jpg";
 import Commerce from "../assets/ecommerce.jpg";
 import { motion } from "framer-motion";
 
@@ -31,7 +31,7 @@ function Portfolio() {
         <div className='my-10 mx-14 md:mx-0 md:flex justify-center'>
           <a href="https://food-app-y7nk.vercel.app/"><img src={Ahava} alt="" className='w-80 rounded-lg hover:ease-in-out cursor-pointer hover:shadow-lg' /></a>
           <a href="https://e-commerce-kappa-five-75.vercel.app/"><img src={Commerce} alt="" className='w-80 rounded-lg hover:ease-in-out cursor-pointer hover:shadow-lg my-10 mx-0 md:my-0 md:mx-10' /></a>
-          <a href="https://digital-clock-opal-six.vercel.app/"><img src={Clock} alt="" className='w-80 rounded-2xl hover:ease-in-out cursor-pointer hover:shadow-lg' /></a>
+          <a href="https://hospital-ekah.vercel.app/"><img src={Hospital} alt="" className='w-80 rounded-2xl hover:ease-in-out cursor-pointer hover:shadow-lg' /></a>
 
         </div>
       </div>
