@@ -27,7 +27,7 @@ function Contact() {
             </div>
             <div className='flex justify-start mt-1 ml-5 '>
                 <p className='text-xs'>belaccal@gmail.com</p>
-                <p className='text-xs mx-12 md:mx-[350px]'>+234-0805-7363-359</p>
+                <p className='text-xs mx-10 md:mx-[350px]'>+234-0805-7363-359</p>
                 <div className='flex ml-10'>
                     <a href="https://www.linkedin.com/in/okere-caleb-5526712b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><FaLinkedin className='mx-2 text-amber-700'/></a>
                     <a href="https://x.com/Belaccal?t=wm-Oh3Wg3bAks_enMvBxEQ&s=09"><FaTwitter className='text-amber-700'/></a>

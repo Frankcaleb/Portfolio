@@ -51,7 +51,7 @@ function Navbar() {
             <li className='px-4 hover:ease-in-out hover:border hover:bg-transparent hover hover:cursor-pointer'>Portfolio</li>
             <li className='px-4 hover:ease-in-out hover:border hover:bg-transparent hover hover:cursor-pointer'>Contacts</li>
           </ul>
-          <div onClick={handleClick} className='text-white fixed ml-[410px] mt-2 hover:cursor-pointer md:hidden'>
+          <div onClick={handleClick} className='text-white fixed ml-[400px] mt-2 hover:cursor-pointer md:hidden'>
             {!navbar ? <FaX /> : <FaBars />}
           </div>
 
